@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [@govo](https://govo.id)
+- 🌱 I’m currently learning Go
+- 💬 Ask me about Vue & Laravel
+- 📫 How to reach me: [Telegram](https://t.me/asuramus) or [Twitter](https://twitter.com/__asuramus)
+- ⚡ Fun fact: I know all the memes.
+
+**Have a good day!**
 <!--
 **Aslam97/Aslam97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
